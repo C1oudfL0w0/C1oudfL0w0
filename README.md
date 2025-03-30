@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Student
+
+Web Security, CTF fans
+
+Blog: [https://c1oudfl0w0.github.io/blog/](https://c1oudfl0w0.github.io/blog/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C1oudfL0w0)
